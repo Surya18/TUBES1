@@ -10,9 +10,9 @@
 	<table width="518" height="318" border="0" align="center">
       <tr>
         <td>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">Cerita ini ketika saya mudik lebaran 2010 atau Ramadhan 1431 H. Saat itu saya ketika sampai di kapal setelah buka puasa, saya bersiap-siap untuk menunaikan sholat maghrib. Setelah selesai, saya langsung masuk mushola. Keadaan mushola masih belum ada orang. Disana sudah terpasang sajadah, sayapun tanpa basa basi langsung mengikuti arah sajadah yang udah terpasang, saya berfikir itulah arah kiblat yang tepat, </p>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">Ketika sudah memasuki rakaat terakhir saat mau salam, pundak saya serasa ada yang menepuk. Tepukan itu saya abaikan, tapi ia menepuk kembali dan saya abaikan juga.Ketika saya sudah selesai sholat, orang yang menepuk pundak saya memanggilku, &quot;Dek! Kamu tadi sholatnya salah kiblat&quot; Kata orang tadi. Saya pun terheran, lalu bertanya kemana arahnya mas? &quot;Arahnya coba lihat di kompas yang ada di samping pintu&quot;. </p>
-          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">Astaghfirullahalazim, ternyata posisi sajadah tadi digunakan ketika kapal belum berbalik arah saat kapal masih di dermaga.Saya mau sholat lagi tapi waktunya udah habis, ya udah lah namanya gak sengaja</p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px"> cerita saat herei dengan teman2 di batara kami terinvirasi untuk membuat sebuah keterampilan di bidangnya dengan membuatsebuah website yang ala kandarnya</p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">ketika melihat sebuah gugulayunan dan sebuah tangkal yang sukar di taeki olleh barudak batara haha &quot;ehh,, terinvirasi&quot; lalu saya betaya pada barudak arek wang ngieun website &quot;, kumaha carana,, &quot;. </p>
+          <p style="font-family: Georgia, &quot;Times New Roman&quot;, Times, serif; font-size: 12px">sakiw jawab aya w,,</p>
           <p>&nbsp;</p></td>
       </tr>
     </table></td>
