@@ -13,14 +13,14 @@
 .style4 {
 	font-style: italic;
 	font-size: 12px;
-	color: #CCFFFF;
+	color: #66FFFF;
 	font-family: "Courier New", Courier, monospace;
 	font-weight: bold;
 }
 body {
 	background-image: url(images/bg.png);
 }
-.style5 {color: #00FF00}
+.style5 {color: #33FF00}
 #Layer1 {
 	position:absolute;
 	left:37px;
